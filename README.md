@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ihbgn745dxw3p5xio4ogx6dhty&radius=28)](https://open.spotify.com/user/31ihbgn745dxw3p5xio4ogx6dhty)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ihbgn745dxw3p5xio4ogx6dhty&theme=spotify&radius=11&footer=wave)
